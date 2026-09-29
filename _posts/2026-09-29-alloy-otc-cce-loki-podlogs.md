@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "OTC CCE clusters ship no pod logs to Loki"
-date: 2026-09-29
+title: "Grafana Alloy, OTC CCE and Loki Pod Logs"
+date: 2026-09-29 23:00:00 +0200
+categories: kubernetes observability
 ---
+
 # OTC CCE clusters ship no pod logs to Loki — the dangling /var/log/pods symlink (Alloy and Promtail)
 
 [TOC]
