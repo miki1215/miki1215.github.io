@@ -1,3 +1,8 @@
+---
+layout: post
+title: "OTC CCE clusters ship no pod logs to Loki"
+date: 2026-09-29
+---
 # OTC CCE clusters ship no pod logs to Loki — the dangling /var/log/pods symlink (Alloy and Promtail)
 
 [TOC]
